@@ -21,3 +21,6 @@ certs/*
 # Custom Caddy addons (user configurations)
 caddy-addon/*.conf
 !caddy-addon/*.example
+
+# Pocket customization - ignore install reports
+*.txt
